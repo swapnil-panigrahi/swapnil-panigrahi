@@ -1,7 +1,7 @@
 # About Me 👋
 <ul>
-  <li> Hi, I am Swapnil, a CSE 3rd year at IIITD</li>
-  <li> Interested in Cyber-Security, Networking & Machine Learning
+  <li> Hi, I am Swapnil, a CSE 4th year at IIITD</li>
+  <li> Full stack dev with some knowledge of DL
   <li> Certified Elden enthusiast 👍 </li>
 
 ### Languages and Tools:
